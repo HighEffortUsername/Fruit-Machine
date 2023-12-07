@@ -1,0 +1,18 @@
+H:\Visual Studio 2022\Fruit Machine\Fruit Machine\bin\Debug\net6.0-windows\Fruit Machine.exe
+H:\Visual Studio 2022\Fruit Machine\Fruit Machine\bin\Debug\net6.0-windows\Fruit Machine.deps.json
+H:\Visual Studio 2022\Fruit Machine\Fruit Machine\bin\Debug\net6.0-windows\Fruit Machine.runtimeconfig.json
+H:\Visual Studio 2022\Fruit Machine\Fruit Machine\bin\Debug\net6.0-windows\Fruit Machine.dll
+H:\Visual Studio 2022\Fruit Machine\Fruit Machine\bin\Debug\net6.0-windows\Fruit Machine.pdb
+H:\Visual Studio 2022\Fruit Machine\Fruit Machine\obj\Debug\net6.0-windows\Fruit Machine.csproj.AssemblyReference.cache
+H:\Visual Studio 2022\Fruit Machine\Fruit Machine\obj\Debug\net6.0-windows\Fruit_Machine.Form1.resources
+H:\Visual Studio 2022\Fruit Machine\Fruit Machine\obj\Debug\net6.0-windows\Fruit_Machine.Resource1.resources
+H:\Visual Studio 2022\Fruit Machine\Fruit Machine\obj\Debug\net6.0-windows\Fruit Machine.csproj.GenerateResource.cache
+H:\Visual Studio 2022\Fruit Machine\Fruit Machine\obj\Debug\net6.0-windows\Fruit Machine.GeneratedMSBuildEditorConfig.editorconfig
+H:\Visual Studio 2022\Fruit Machine\Fruit Machine\obj\Debug\net6.0-windows\Fruit Machine.AssemblyInfoInputs.cache
+H:\Visual Studio 2022\Fruit Machine\Fruit Machine\obj\Debug\net6.0-windows\Fruit Machine.AssemblyInfo.cs
+H:\Visual Studio 2022\Fruit Machine\Fruit Machine\obj\Debug\net6.0-windows\Fruit Machine.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\Fruit Machine\Fruit Machine\obj\Debug\net6.0-windows\Fruit Machine.dll
+H:\Visual Studio 2022\Fruit Machine\Fruit Machine\obj\Debug\net6.0-windows\refint\Fruit Machine.dll
+H:\Visual Studio 2022\Fruit Machine\Fruit Machine\obj\Debug\net6.0-windows\Fruit Machine.pdb
+H:\Visual Studio 2022\Fruit Machine\Fruit Machine\obj\Debug\net6.0-windows\Fruit Machine.genruntimeconfig.cache
+H:\Visual Studio 2022\Fruit Machine\Fruit Machine\obj\Debug\net6.0-windows\ref\Fruit Machine.dll
